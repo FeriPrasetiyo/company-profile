@@ -85,7 +85,7 @@
                 Jakarta Barat.</a
               >
             </div>
-            <div class="mb-3">
+            <div class="mb-3 ">
               <img src="img/asset/telepon.png" alt="" />
               <a href="">+62 21-2949-0536</a>
             </div>
@@ -143,11 +143,10 @@
                   >Comments</label
                 >
               </div>
-              <div class="row">
+              <br>
                 <dir class="col-12 btn">
-                  <button type="submit" class="button-kontak">KIRIM</button>
+                  <button type="submit" class="button-kontak">SEND IN</button>
                 </dir>
-              </div>
             </form>
           </div>
         </div>
